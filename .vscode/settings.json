@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "chrono": "cpp"
+    },
+    "ai.completions.project_uuid": "milvus_sdk_cpp_copilot_include_only",
+}
